@@ -11,7 +11,7 @@ def add_bg_from_url():
         f"""
          <style>
          .stApp {{
-             background-image: url("https://t3.ftcdn.net/jpg/02/90/89/76/360_F_290897614_7RdAsk2GmumcGWZ2qklmV74hKlNmznSx.jpg");
+             background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210222/pngtree-white-line-background-business-image_564059.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
