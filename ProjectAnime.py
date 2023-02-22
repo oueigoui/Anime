@@ -4,8 +4,6 @@ from sklearn.linear_model import LinearRegression
 import pandas as pd
 import streamlit as st
 
-#st.snow()
-#st.balloons()
 
 
 def add_bg_from_url():
